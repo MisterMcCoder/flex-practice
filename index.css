@@ -50,6 +50,7 @@
   }
   
   .photo-grid {
+    flex-direction: column;
     flex-wrap: wrap;
     width: 900px;
     display: flex;
